@@ -1,5 +1,7 @@
 # _Minhas Férias_ 🌞
 
+## Figma 👌
+> https://www.figma.com/design/FTLx8wmYdOd9qh8JdFHTNx/Minhas-f%C3%A9rias?m=auto&t=59smAhEMkDMXhwmz-6
 ## Descrição 📖
 Este projeto é uma página pessoal onde compartilho as aventuras das minhas férias de verão, com detalhes sobre os destinos, momentos especiais, e novas experiências. A página é dividida em seções que narram minha experiência de forma interativa e visualmente agradável. 
 
