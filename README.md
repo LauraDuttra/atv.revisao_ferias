@@ -1,8 +1,4 @@
-Permitido! Com base nos códigos que você enviou, aqui está o **README**:
-
----
-
-# Minhas Férias 🌞
+# _Minhas Férias_ 🌞
 
 ## Descrição 📖
 Este projeto é uma página pessoal onde compartilho as aventuras das minhas férias de verão, com detalhes sobre os destinos, momentos especiais, e novas experiências. A página é dividida em seções que narram minha experiência de forma interativa e visualmente agradável. 
