@@ -51,4 +51,3 @@ Através de imagens e textos, você pode acompanhar desde os destinos que visite
 ## Agradecimentos 🙏
 
 - Agradeço por conferir minhas férias! Espero que goste da história e do layout visual do site.
-- "Minhas Férias" foi criado para celebrar momentos especiais e aproveitar o calor do verão com design colorido e alegre.
